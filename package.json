@@ -1,0 +1,20 @@
+{
+  "version": "2.1.8",
+  "name": "cordova-plugin-ispikit-cordova",
+  "cordova_name": "Ispikit",
+  "description": "This plugin allows voice recognition",
+  "license": "MIT",
+  "repo": "https://github.com/lothcor/ispikit-cordova",
+  "issue": "",
+  "keywords": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ]
+}
